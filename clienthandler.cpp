@@ -1,3 +1,14 @@
+/*
+#------------------------------------------#
+#                                          #
+# Todak Server 0.1                         #
+# Copyright (C) 2015 -2016 Azril Azam      #
+#                                          #
+# azrilazam@gmail.com                      #
+#                                          #
+#------------------------------------------#
+*/
+
 #include "clienthandler.h"
 #include <QDebug>
 

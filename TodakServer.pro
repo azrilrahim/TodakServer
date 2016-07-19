@@ -25,4 +25,5 @@ HEADERS += \
     structure.h
 
 DISTFILES += \
-    README.txt
+    README.txt \
+    web.cfg
