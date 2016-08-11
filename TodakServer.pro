@@ -26,4 +26,5 @@ HEADERS += \
 
 DISTFILES += \
     README.txt \
-    web.cfg
+    web.cfg \
+    changeLog.txt

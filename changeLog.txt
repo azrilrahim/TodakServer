@@ -1,0 +1,2 @@
+AUGUST 11th 2016 - Azril
+- Add/Change on description for Todak Server in README.txt
